@@ -12,5 +12,8 @@
     "chai"
   ],
   "author": "Ajay Purbiya",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
